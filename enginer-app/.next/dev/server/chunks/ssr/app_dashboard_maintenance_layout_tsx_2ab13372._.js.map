@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/Enginer/enginer-app/app/dashboard/maintenance/layout.tsx"],"sourcesContent":["import DashboardLayout from \"@/components/dashboard-layout\";\r\n\r\nexport default function MaintenanceLayout({ children }: { children: React.ReactNode }) {\r\n  return <DashboardLayout>{children}</DashboardLayout>;\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS,kBAAkB,EAAE,QAAQ,EAAiC;IACnF,qBAAO,8OAAC,6IAAe;kBAAE;;;;;;AAC3B"}}]
+}
